@@ -1,0 +1,15 @@
+C:\Users\casid\OneDrive - Waukesha County Technical College\Mobile Application Development\java-animals-rewritten\obj\Debug\net6.0\java-animals-rewritten.csproj.AssemblyReference.cache
+C:\Users\casid\OneDrive - Waukesha County Technical College\Mobile Application Development\java-animals-rewritten\obj\Debug\net6.0\java-animals-rewritten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casid\OneDrive - Waukesha County Technical College\Mobile Application Development\java-animals-rewritten\obj\Debug\net6.0\java-animals-rewritten.AssemblyInfoInputs.cache
+C:\Users\casid\OneDrive - Waukesha County Technical College\Mobile Application Development\java-animals-rewritten\obj\Debug\net6.0\java-animals-rewritten.AssemblyInfo.cs
+C:\Users\casid\OneDrive - Waukesha County Technical College\Mobile Application Development\java-animals-rewritten\obj\Debug\net6.0\java-animals-rewritten.csproj.CoreCompileInputs.cache
+C:\Users\casid\OneDrive - Waukesha County Technical College\Mobile Application Development\java-animals-rewritten\bin\Debug\net6.0\java-animals-rewritten.exe
+C:\Users\casid\OneDrive - Waukesha County Technical College\Mobile Application Development\java-animals-rewritten\bin\Debug\net6.0\java-animals-rewritten.deps.json
+C:\Users\casid\OneDrive - Waukesha County Technical College\Mobile Application Development\java-animals-rewritten\bin\Debug\net6.0\java-animals-rewritten.runtimeconfig.json
+C:\Users\casid\OneDrive - Waukesha County Technical College\Mobile Application Development\java-animals-rewritten\bin\Debug\net6.0\java-animals-rewritten.dll
+C:\Users\casid\OneDrive - Waukesha County Technical College\Mobile Application Development\java-animals-rewritten\bin\Debug\net6.0\java-animals-rewritten.pdb
+C:\Users\casid\OneDrive - Waukesha County Technical College\Mobile Application Development\java-animals-rewritten\obj\Debug\net6.0\java-animals-rewritten.dll
+C:\Users\casid\OneDrive - Waukesha County Technical College\Mobile Application Development\java-animals-rewritten\obj\Debug\net6.0\refint\java-animals-rewritten.dll
+C:\Users\casid\OneDrive - Waukesha County Technical College\Mobile Application Development\java-animals-rewritten\obj\Debug\net6.0\java-animals-rewritten.pdb
+C:\Users\casid\OneDrive - Waukesha County Technical College\Mobile Application Development\java-animals-rewritten\obj\Debug\net6.0\java-animals-rewritten.genruntimeconfig.cache
+C:\Users\casid\OneDrive - Waukesha County Technical College\Mobile Application Development\java-animals-rewritten\obj\Debug\net6.0\ref\java-animals-rewritten.dll
